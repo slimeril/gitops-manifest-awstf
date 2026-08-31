@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: piyushsachdeva/backend
+          image: slimeril/backend
           ports:
             - containerPort: 8080
           env:
