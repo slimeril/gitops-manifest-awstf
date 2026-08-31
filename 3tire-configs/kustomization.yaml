@@ -14,10 +14,10 @@ commonAnnotations:
   app.kubernetes.io/version: "1.0"
 
 images:
-  - name: piyushsachdeva/frontend
+  - name: slimeril/frontend
     newTag: v1
-  - name: piyushsachdeva/backend
-    newTag: latest
+  - name: slimeril/backend
+    newTag: v1
   - name: postgres
     newTag: "15"
 
