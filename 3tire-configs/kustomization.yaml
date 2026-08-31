@@ -15,7 +15,7 @@ commonAnnotations:
 
 images:
   - name: piyushsachdeva/frontend
-    newTag: v3
+    newTag: v1
   - name: piyushsachdeva/backend
     newTag: latest
   - name: postgres
